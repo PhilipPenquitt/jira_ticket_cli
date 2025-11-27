@@ -1,6 +1,6 @@
 # Jira Automation Script
 
-Ein TypeScript-Script zum Abrufen Ihrer Jira-Tickets über die Jira REST API mit SAML/PAT-Authentifizierung.
+Ein TypeScript-Script zum Abrufen meiner Jira-Tickets über die Jira REST API mit SAML/PAT-Authentifizierung. Doku via KI 🤔.
 
 ## Voraussetzungen
 
