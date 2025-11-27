@@ -24,7 +24,7 @@ npm install
 
 Für Jira Data Center/Server mit SAML-Authentifizierung:
 
-1. Melden Sie sich bei Jira an (z.B. https://jira.firma.net/jira)
+1. Melden Sie sich bei Jira an (z.B. <https://jira.firma.net/jira>)
 2. Klicken Sie auf Ihr Profilbild → **Profile**
 3. Im linken Menü: **Personal Access Tokens**
 4. Klicken Sie auf **Create token**
